@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @collin-scribner
-- 🌱 I’m currently learning vim and Golang
+- 👋 Hi, I’m Collin
+- 🌱 I’m currently using Golang, Temporal, and vim
 - 📫 You can reach me by pigeon
